@@ -121,14 +121,4 @@ Transforms recorded voice into multiple versions using pitch and speed adjustmen
 
 ---
 
-## 🌟 Bonus (Want More?)
-Would you like:
-- A **custom image banner**?
-- A **section for certifications, goals, or blog posts**?
-- A **carousel or grid to display project thumbnails**?
-
-Just say "Yes!" and I’ll design and code it for you 💻✨
-
----
-
 ### 💖 Made with Passion and Python 🐍
