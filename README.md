@@ -79,10 +79,43 @@
 > — Cory House
 
 ---
+## 📌 Featured AI/GenAI Projects
 
-## 📌 Featured Projects (Pinned Repositories)
+### 🔹 [🧠 AI Image Generator](https://github.com/KapurShatakshi/AI-Image-Generator-)
+Generates high-quality images from text prompts using **Stable Diffusion v1.4** on CPU with Hugging Face Diffusers.  
+> ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-yellow?style=flat&logo=huggingface)
+![StableDiffusion](https://img.shields.io/badge/-Stable_Diffusion-blueviolet?style=flat)
+![GenAI](https://img.shields.io/badge/-GenAI-purple?style=flat)
 
-> 🎯 Tip: Go to your GitHub profile → **Customize your pins** → Select your best 6 projects
+---
+
+### 🔹 [🔐 Password Strength Checker AI](https://github.com/KapurShatakshi/Python-Password-Generator-and-Strength-Checker)
+Analyzes password patterns in real time and guides users to improve password security using a smart GUI.  
+> ![Tkinter](https://img.shields.io/badge/-Tkinter-blue?style=flat)
+![Regex](https://img.shields.io/badge/-Regex-green?style=flat)
+
+---
+
+### 🔹 [🎮 Hangman Game - GUI Edition](https://github.com/KapurShatakshi/Python-Game)
+Fun Hangman game with a polished GUI interface for word guessing practice.  
+> ![Python](https://img.shields.io/badge/-Python-333?style=flat)
+![Tkinter](https://img.shields.io/badge/-Tkinter-blue?style=flat)
+
+---
+
+### 🔹 [👋 Gesture Emoji Recognition](https://github.com/KapurShatakshi/Gesture-Emoji)
+Detects real-time hand gestures using MediaPipe and translates them into corresponding emojis.  
+> ![MediaPipe](https://img.shields.io/badge/-MediaPipe-orange?style=flat)
+![OpenCV](https://img.shields.io/badge/-OpenCV-red?style=flat)
+![Numpy](https://img.shields.io/badge/-Numpy-blue?style=flat)
+
+---
+
+### 🔹 [🔊 AI Voice Changer](https://github.com/KapurShatakshi/Voice_Changer)
+Transforms recorded voice into multiple versions using pitch and speed adjustments.  
+> ![PyDub](https://img.shields.io/badge/-PyDub-lightgrey?style=flat)
+![Audio](https://img.shields.io/badge/-Audio_Processing-blueviolet?style=flat)
 
 ---
 
