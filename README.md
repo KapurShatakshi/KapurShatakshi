@@ -57,8 +57,9 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/KapurShatakshi/KapurShatakshi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/KapurShatakshi/KapurShatakshi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 ---
 
